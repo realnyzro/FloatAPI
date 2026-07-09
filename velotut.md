@@ -13,13 +13,13 @@
   ```FloatAPI.FloatModule.Attach();```
     - Attaches to Roblox
 
-  FloatAPI.FloatModule.Execute(script here);
+  `FloatAPI.FloatModule.Execute(script here);`
     - Executes a script
 
-  FloatAPI.FloatModule.KillRoblox();
+  `FloatAPI.FloatModule.KillRoblox();`
     - Kills Roblox process
 
-  FloatAPI.FloatModule.IsAttached();
+  `FloatAPI.FloatModule.IsAttached();`
     - Returns if the API is attached (true or false)
 
 
